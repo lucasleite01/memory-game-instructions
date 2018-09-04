@@ -1,6 +1,6 @@
 # Instruções projeto Jogo da Memória
 - [Objetivo](#objetivo)
-- [Meu prazo está acabando, o que fazer?](#meu-prazo-está-acabando-o-que-fazer?)
+- [Meu prazo está acabando, o que fazer?](#meu-prazo-está-acabando-o-que-fazer)
 - [Quais aulas devo fazer?](#quais-aulas-devo-fazer)
 
 ## Objetivo
