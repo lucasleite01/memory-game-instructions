@@ -11,7 +11,6 @@ Um resumo das aulas necessárias para finalizar o projeto para aqueles que estã
 
 ## Quais aulas devo fazer?
 Todas as aulas do módulo 3, [Programação Web com JavaScript](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea), são importantes para o aprendizado completo dos conhecimentos fornecidos no nanodegree, mas aqui seguem algumas sugestões sobre o conteúdo das aulas, e quais são mais importantes para conseguir finalizar o projeto.
-
 - A sequência de aulas descritas nesse item **são de extrema importância**, pois destacam conteúdos fundamentais no aprendizado de JavaScript, com exceção da aula 8, mas que vale à pena ser feita pois é uma atualização a respeito de alguns pontos da sintaxe da nova versão do JavaScript:
  - Aula 1 - [O que é JavaScript?](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/cd56eea9-99b5-40c8-8725-a66a651e1ff0/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/921085c8-9e58-4c26-a729-f1406b49b504);
   - Aula 2 - [Tipos de dados e variáveis](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/cd56eea9-99b5-40c8-8725-a66a651e1ff0/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/673e1be5-6c85-4397-8318-192d95d48761);
@@ -38,7 +37,7 @@ Todas as aulas do módulo 3, [Programação Web com JavaScript](https://classroo
   - Aula 20 - [Criando conteúdo com JavaScript](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/d201d874-5811-4916-954d-1baf78b096b1/lessons/39d760cf-9593-420d-9a97-57bff31e29c1/concepts/24b00792-38d0-4d61-acc9-eb1422fcc284);
   - Aula 21 - [Trabalhando com eventos do navegador](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/d201d874-5811-4916-954d-1baf78b096b1/lessons/f270dbcf-eb43-4ce3-b7be-a74d26023496/concepts/f63b1837-b096-4707-b0f5-72bc6a93bfac);
   - Aula 22 - [Desempenho](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/d201d874-5811-4916-954d-1baf78b096b1/lessons/364ca3da-1eb9-4213-beb4-7791ac4e1ea4/concepts/6e242deb-7793-4c9a-9898-44144ee2c603);
-- As demais aulas abordam alguns conceitos da biblioteca jQuery, que podem ser muito úteis na hora de fazer o projeto, mas que não são necessários para finalizar o projeto. Por isso, caso queira, pode fazer essas aulas depois da aprovação no projeto:
+- As demais aulas abordam alguns conceitos da biblioteca jQuery, que podem ser muito úteis na hora de fazer o projeto, mas que não são necessários para finalizar o projeto. Por isso, caso queira, **pode fazer essas aulas depois da aprovação no projeto**:
   - Aula 23 - [Noções básicas de jQuery: DOM, $ e seletores](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/296281861575461/lessons/3314378535/concepts/33166386820923);
   - Aula 24 - [Truqes de jQuery: manipulação do DOM](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/296281861575461/lessons/3311478538/concepts/33271685960923);
   - Aula 25 - [Observadores de eventos com jQuery](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/296281861575461/lessons/5103579406/concepts/50423085550923);
