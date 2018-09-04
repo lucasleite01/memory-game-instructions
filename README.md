@@ -1,4 +1,4 @@
-# Instruções projeto Memory Game
+# Instruções projeto Jogo da Memória
 - [Objetivo](#objetivo)
 - [Conteúdo](#conteúdo)
 - [Quais aulas devo fazer?](#quais-aulas-devo-fazer)
