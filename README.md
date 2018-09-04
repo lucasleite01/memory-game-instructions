@@ -22,7 +22,7 @@ Todas as aulas do módulo 3, [Programação Web com JavaScript](https://classroo
   - Aula 7 - [Objetos](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/cd56eea9-99b5-40c8-8725-a66a651e1ff0/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/698b4dbb-fc8a-40c1-ab90-5902f5714099);
   - Aula 8 - [Sintaxe do ES6](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/4116dc31-6d06-4774-b082-d60ca0980d2b/lessons/42383e89-ac6a-491a-b7d0-198851287bbe/concepts/08a224ff-d7f5-4086-ab89-f74d3da09d08);
 
-- A lista de aulas deste item são referentes a shell e controle de versão, e **podem ser feitas após a aprovação no projeto**:
+- As aulas deste item são referentes a shell e controle de versão, e **podem ser feitas após a aprovação no projeto**:
 
   - Aula 9 - [Workshop sobre shell](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/cbdbf249-3d40-4ffd-9cf6-38ed8940dbf2/lessons/1cc90ac3-c03a-43e6-8556-dcbd40dfd418/concepts/68acb17b-161c-42f8-9c1e-fc1460eca322);
   - Aula 10 - [O que é controle de versão](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea/modules/6b870a4f-94d1-4e8b-986c-0ace411d63e7/lessons/1b369991-f1ca-4d6a-ba8f-e8318d76322f/concepts/06b0775b-b703-45ca-9935-939487706728);
