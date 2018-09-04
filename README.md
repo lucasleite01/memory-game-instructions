@@ -1,7 +1,7 @@
 # Instruções projeto Memory Game
-- [Objetivo](## Objetivo)
-- [Conteúdo](## Conteúdo)
-- [Quais aulas devo fazer?](## Quais aulas devo fazer?)
+- [Objetivo](#objetivo)
+- [Conteúdo](#conteúdo)
+- [Quais aulas devo fazer?](#quais-aulas-devo-fazer)
 
 ## Objetivo
 Esse documento foi elaborado para ajudar os finalistas do Nanodegree Fundamentos Web Front-End na conclusão do mesmo.
