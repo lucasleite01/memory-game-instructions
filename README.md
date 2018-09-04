@@ -1,13 +1,13 @@
 # Instruções projeto Jogo da Memória
 - [Objetivo](#objetivo)
-- [Conteúdo](#conteúdo)
+- [Meu prazo está acabando, o que fazer?](#meu-prazo-está-acabando-o-que-fazer?)
 - [Quais aulas devo fazer?](#quais-aulas-devo-fazer)
 
 ## Objetivo
 Esse documento foi elaborado para ajudar os finalistas do Nanodegree Fundamentos Web Front-End na conclusão do mesmo.
 
-## Conteúdo
-Um resumo das aulas necessárias para finalizar o projeto para aqueles que estão fazendo as aulas teóricas.
+## Meu prazo está acabando, o que fazer?
+Esteja sempre atento ao prazo final para aprovação do projeto, que pode ser visto na sala de aula. Para mais detalhes sobre como verificar o prazo, e o que fazer se achar que não vai conseguir ser aprovado no projeto até o prazo final, consulte [essa aula](https://classroom.udacity.com/nanodegrees/nd041/parts/bf3fc6a8-5a11-439f-b1ad-9f0c815f1b03/modules/1b69cb6e-4d0d-4e05-aaf5-73630548e260/lessons/c5a8ef16-e074-42fd-aa65-dcd87cb377f5/concepts/bf5d9ff7-2f4a-402e-a6af-678b47aafd63) do módulo de Introdução.
 
 ## Quais aulas devo fazer?
 Todas as aulas do módulo 3, [Programação Web com JavaScript](https://classroom.udacity.com/nanodegrees/nd041/parts/3dfb3d08-1fea-4ee8-ba71-655c8a1f05ea), são importantes para o aprendizado completo dos conhecimentos fornecidos no nanodegree, mas aqui seguem algumas sugestões sobre o conteúdo das aulas, e quais são mais importantes para conseguir finalizar o projeto.
